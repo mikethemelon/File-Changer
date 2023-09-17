@@ -1,0 +1,10 @@
+C:\Users\kiend\Desktop\pet project\File Changer\Debug\bin\Debug\Debug.exe.config
+C:\Users\kiend\Desktop\pet project\File Changer\Debug\bin\Debug\Debug.exe
+C:\Users\kiend\Desktop\pet project\File Changer\Debug\bin\Debug\Debug.pdb
+C:\Users\kiend\Desktop\pet project\File Changer\Debug\obj\Debug\Debug.csproj.AssemblyReference.cache
+C:\Users\kiend\Desktop\pet project\File Changer\Debug\obj\Debug\Debug.Form1.resources
+C:\Users\kiend\Desktop\pet project\File Changer\Debug\obj\Debug\Debug.Properties.Resources.resources
+C:\Users\kiend\Desktop\pet project\File Changer\Debug\obj\Debug\Debug.csproj.GenerateResource.cache
+C:\Users\kiend\Desktop\pet project\File Changer\Debug\obj\Debug\Debug.csproj.CoreCompileInputs.cache
+C:\Users\kiend\Desktop\pet project\File Changer\Debug\obj\Debug\Debug.exe
+C:\Users\kiend\Desktop\pet project\File Changer\Debug\obj\Debug\Debug.pdb
