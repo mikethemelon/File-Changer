@@ -10,7 +10,7 @@ BUGS:
 - Small bug that make file's name extension duplicate itself.
 
 ------------------------------------------------------------
-VIRUS TOTAL: https://www.virustotal.com/gui/file/1f751a1ef35261d5b17596df3789a111539935940df8f9bb5041e6fb9461aedd?nocache=1
+VIRUS TOTAL: https://www.virustotal.com/gui/file/f32c4360aff4e28ae68cf6f69c7add7817883f2877fa234f80067a07e9a83912?nocache=1
 ------------------------------------------------------------
 
 ------------------------------------------------------------
