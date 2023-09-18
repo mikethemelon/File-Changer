@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File Changer", "File Changer\File Changer.csproj", "{5D794AAC-AB18-4D42-84A8-71F8DAC85303}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FileChanger", "SetupFileChanger\FileChanger\FileChanger.vdproj", "{460E6D87-A32F-4C68-912D-BC5A720A4FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D794AAC-AB18-4D42-84A8-71F8DAC85303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D794AAC-AB18-4D42-84A8-71F8DAC85303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D794AAC-AB18-4D42-84A8-71F8DAC85303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D794AAC-AB18-4D42-84A8-71F8DAC85303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{460E6D87-A32F-4C68-912D-BC5A720A4FCC}.Debug|Any CPU.ActiveCfg = Debug
+		{460E6D87-A32F-4C68-912D-BC5A720A4FCC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02CD18D4-7F7F-44C4-A7A0-CCF3C7D5F73F}
+	EndGlobalSection
+EndGlobal
