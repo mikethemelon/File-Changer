@@ -5,3 +5,6 @@ FEATURES:
 
 - Prefix Change: Rename multible files at once.
 - Ordinaling Numbers: Rename multiple files in number order (1, 2, 3,...)
+--------------------------------------------------------
+BUGS:
+- Small bug that make file's name extension duplicate itself.
