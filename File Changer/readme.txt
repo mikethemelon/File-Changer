@@ -1,8 +1,8 @@
 ------------------------------------------------------------
 SIMPLE TOOL CAN RENAME MULTIPLE FILES FOR MANGA EDIT
 ------------------------------------------------------------
-FEATURES:
 
+FEATURES:
 - Prefix Change: Rename multible files at once.
 - Ordinaling Numbers: Rename multiple files in number order (1, 2, 3,...)
 ------------------------------------------------------------
@@ -16,8 +16,8 @@ VIRUS TOTAL: https://www.virustotal.com/gui/file/1f751a1ef35261d5b17596df3789a11
 ------------------------------------------------------------
 CÔNG CỤ ĐỔI TÊN FILE DÀNH CHO EDIT TRUYỆN
 ------------------------------------------------------------
-CHỨC NĂNG:
 
+CHỨC NĂNG:
 - Đổi tên file: Đổi tên nhiều file trong cùng một lúc.
 - Đổi tên theo định dạng thứ tự: Đổi nhiều file với tên theo thứ tự số (1, 2, 3,...)
 ------------------------------------------------------------
